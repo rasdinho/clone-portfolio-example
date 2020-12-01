@@ -21,4 +21,12 @@ BODY {
     -webkit-transition: .5s;
     transition: .5s;
   }
+  a:hover {
+    color: #fc3565;
+  }
   
+  h1 {
+    color: #fc3565;
+    padding-bottom: 0px;
+    margin-bottom: 1%;
+  }
