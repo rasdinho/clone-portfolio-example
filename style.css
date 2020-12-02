@@ -30,3 +30,21 @@ BODY {
     padding-bottom: 0px;
     margin-bottom: 1%;
   }
+  h2 {
+    color: #555560;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .logo {
+    font-family: 'Monoton', cursive;
+    color: white;
+    font-size: 8rem;
+  }
+  
+  .top {
+    padding-bottom: 5rem;
+  }
+  
