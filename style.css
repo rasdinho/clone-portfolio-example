@@ -88,3 +88,27 @@ BODY {
       margin-left: .4rem;
       color: #fff;
   }
+
+  
+    
+  @media (min-width: 400px) {}
+  
+  
+  
+  @media (min-width: 550px) {}
+  
+  
+  
+  @media (min-width: 750px) {}
+  
+  
+  
+  @media (min-width: 1000px) {}
+  
+  
+  
+  @media (min-width: 1200px) {
+    h1 {
+      font-size: 4rem;
+    }
+  }
