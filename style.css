@@ -1,5 +1,8 @@
 BODY {
-    background: #282931;
+    background: url(https://overheadproductions.files.wordpress.com/2013/05/lens-flare-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background: #282931; */
     -webkit-font-smoothing: antialiased;
     font-family: 'Varela Round', sans-serif;
     height: 100%;
@@ -23,6 +26,9 @@ BODY {
   }
   a:hover {
     color: #fc3565;
+  }
+  #name-st{
+    text-align: center;
   }
   
   h1 {
